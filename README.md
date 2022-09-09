@@ -29,4 +29,8 @@
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/LucasSeabraa/count.svg" /></p>
+
+
+
+
 ![snake gif](https://github.com/LucasSeabraa/LucasSeabraa/blob/output/github-contribution-grid-snake.svg)
