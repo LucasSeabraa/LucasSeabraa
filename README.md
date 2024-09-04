@@ -48,13 +48,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lucas-seabra-040248227/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-seabra-040248227/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/seabra.lucass/" target="_blank">
+  <a href="https://www.instagram.com/seabra.lucass/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="mailto:seabraa.lucas@gmail.com" target="_blank">
+  <a href="mailto:seabraa.lucas@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
