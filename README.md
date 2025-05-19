@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- from Resende, RJ 🇧🇷<br>- graduating  in information systems<br>-field software engineer at VTEX</p>
+<p align="left">- from Resende, RJ 🇧🇷<br>- graduating  in information systems<br></p>
 
 ###
 
