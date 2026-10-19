@@ -2,11 +2,11 @@
 
 🎓 Graduated in **Information Systems**
 
-💻 Passionate about **Software Development, Data Analytics, and Artificial Intelligence**.
+💻 Passionate about **Software Development, Data Analytics and Artificial Intelligence**.
 
-🚀 Building projects with **TypeScript, React, Next.js, Python, and PostgreSQL**.
+🚀 Building projects with **TypeScript, React, Next.js, Python and PostgreSQL**.
 
-📚 Always learning, exploring new technologies, and turning ideas into real-world solutions.
+📚 Always learning, exploring new technologies and turning ideas into real-world solutions.
 
 🌎 Based in Brazil | Advanced English | Basic French
 
