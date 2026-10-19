@@ -1,10 +1,14 @@
-<h2 align="left">About Me</h2>
+### 👨‍💻 About Me
 
-###
+🎓 Graduated in **Information Systems**
 
-<p align="left">- from Resende, RJ 🇧🇷<br>- graduating  in information systems<br></p>
+💻 Passionate about **Software Development, Data Analytics, and Artificial Intelligence**.
 
-###
+🚀 Building projects with **TypeScript, React, Next.js, Python, and PostgreSQL**.
+
+📚 Always learning, exploring new technologies, and turning ideas into real-world solutions.
+
+🌎 Based in Brazil | Advanced English | Basic French
 
 <h2 align="left">Techs</h2>
 
